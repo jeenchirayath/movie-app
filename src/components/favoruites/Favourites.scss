@@ -1,0 +1,28 @@
+@import '../../common/colors.scss';
+
+.favouriteListing{
+    color: $font-primary;
+    min-height: 200px;
+    margin: 0;
+    padding-top: 2rem;
+
+   
+
+}
+.favlist{
+    margin: 1rem;
+    display: flex;
+    padding-left: 5px;
+    align-items: center;
+    justify-content:space-between
+}
+.favMov{
+    padding: .5rem;
+}
+.favouriteTitle{
+    text-align: center;
+    color: $font-secondary;
+}
+.no-fav{
+    text-align: center;
+}

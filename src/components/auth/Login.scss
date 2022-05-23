@@ -1,0 +1,18 @@
+@import '../../common/colors.scss';
+
+.login{
+   height: 100%;
+   margin: 5rem auto;
+   max-width: 25rem;
+   min-height: 300px;
+   border-radius: 6px;
+   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+   border-color: $secondary-color;
+   background-color:$secondary-color;
+   color: $font-primary;
+   
+}
+.form{
+    width: 95%;
+    
+}
