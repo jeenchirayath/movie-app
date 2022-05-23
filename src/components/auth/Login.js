@@ -47,10 +47,7 @@ const Login = () => {
                     </div>
                 </Form>
                 <hr />
-                <div>
-                    <GoogleButton className='g-btn'
-                        type="dark" />
-                </div>
+                
                 <div className=" box mt-3 text-center">
         Don't have an account? <Link to="/signup">Sign up</Link>
       </div>
